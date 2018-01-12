@@ -4,7 +4,5 @@
 @end;
 @begin Objects 
  "test4pbl.sra" "test4pbl.pbl";
- "soapconnection.sru" "test4pbl.pbl";
- "soapexception.sru" "test4pbl.pbl";
  "w_test.srw" "test4pbl.pbl";
 @end;
